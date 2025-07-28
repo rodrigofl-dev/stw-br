@@ -1,3 +1,10 @@
+assets.json
+book_people.json
+book_schematics.json
+daily_alerts.json
+
+test/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
